@@ -1,0 +1,15 @@
+.runtime/
+Objects/
+Listings/
+*.obj
+*.lst
+*.m51
+*.hex
+*.uvopt
+*.uvoptx
+*.uvgui.*
+*.workspace
+Project Backups/
+.env
+.env.*
+*.log

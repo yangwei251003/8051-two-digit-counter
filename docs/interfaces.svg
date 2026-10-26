@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+<rect width="1100" height="430" rx="20" fill="#102039"/>
+<text x="40" y="52" font-family="Segoe UI,Arial,sans-serif" font-size="28" fill="#f2f5fc">8051 Two-Digit Counter</text>
+<text x="40" y="86" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#b5c5dd">Source-derived interface diagram · not a verified circuit or board photograph</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#e4ebf7">
+<rect x="40" y="130" width="270" height="90" rx="10" fill="#213650"/><text x="60" y="165">P1.0: increment</text><text x="60" y="200">P1.1: reset</text>
+<rect x="390" y="130" width="300" height="190" rx="10" fill="#213650"/><text x="420" y="175">AT89C51 / 8051</text><text x="420" y="220">Counter: 00–99</text><text x="420" y="265">Common-anode codes</text>
+<rect x="770" y="130" width="290" height="90" rx="10" fill="#213650"/><text x="790" y="165">P0: tens digit</text><text x="790" y="200">P2: units digit</text>
+<path d="M310 175 H390 M690 175 H770" stroke="#76d6cc" stroke-width="4"/>
+<text x="40" y="380" font-size="18" fill="#b5c5dd">Current limiters, pull-ups, drivers and crystal timing require separate hardware verification.</text>
+</g></svg>
